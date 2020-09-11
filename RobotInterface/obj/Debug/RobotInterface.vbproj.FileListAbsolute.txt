@@ -1,0 +1,16 @@
+C:\Users\TP_EO_6\source\repos\RobotInterface\bin\Debug\RobotInterface.exe.config
+C:\Users\TP_EO_6\source\repos\RobotInterface\bin\Debug\RobotInterface.exe
+C:\Users\TP_EO_6\source\repos\RobotInterface\bin\Debug\RobotInterface.pdb
+C:\Users\TP_EO_6\source\repos\RobotInterface\bin\Debug\RobotInterface.xml
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.vbprojAssemblyReference.cache
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\MainWindow.g.vb
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\Application.g.vb
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface_MarkupCompile.cache
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface_MarkupCompile.lref
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\MainWindow.baml
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.g.resources
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.Resources.resources
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.vbproj.GenerateResource.cache
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.exe
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.xml
+C:\Users\TP_EO_6\source\repos\RobotInterface\obj\Debug\RobotInterface.pdb

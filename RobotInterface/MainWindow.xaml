@@ -1,0 +1,30 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RobotInterface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="30"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Emission" Margin="0" Background="#FFDDDDDD" BorderBrush="Black" Grid.Column="1" Grid.Row="1">
+            <TextBox Margin="0" TextWrapping="Wrap" AcceptsReturn="True" RenderTransformOrigin="0.538,0.478"/>
+        </GroupBox>
+        <GroupBox Header="Reception" Margin="0" Background="#FFDDDDDD" BorderBrush="Black" Grid.Column="3" Grid.Row="1">
+            <TextBox Margin="0" TextWrapping="Wrap" AcceptsReturn="True" RenderTransformOrigin="0.538,0.478" IsReadOnly="True"/>
+        </GroupBox>
+
+    </Grid>
+</Window>
